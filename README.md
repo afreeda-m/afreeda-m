@@ -8,7 +8,7 @@ I love to cook, play sports and spend time with my family.
 
 I'm currently working on small full-stack projects to get better and more efficient at coding using my newly acquired programming skills 😄
 
-Have a look at some of my projects below: 👇
+### Have a look at some of my projects below: 👇
 <!--
 **afreeda-m/afreeda-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
