@@ -4,9 +4,12 @@
 
 - 👩🏻‍🔬 I have a background in Molecular Biology from the University of Guelph.
 
-- 🥘 I love to cook, 🏐 play sports and 👨‍👩‍👦 spend time with my family. 
+- 🥘 I love to cook, 🏐 play sports and 👨‍👩‍👦 spend time with my family.
+
+- 💡 I have a passion for creating apps that are practical, and purposeful.
 
 - 🌱 I'm currently working on small full-stack projects to get better and more efficient at coding using my newly acquired programming skills 😄
+
 
 ### Have a look at some of my projects below: 👇
 <!--
